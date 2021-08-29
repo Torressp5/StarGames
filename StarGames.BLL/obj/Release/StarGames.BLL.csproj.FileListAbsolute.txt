@@ -1,0 +1,11 @@
+C:\Users\MAGALU\Desktop\StarGames\StarGames.BLL\bin\Release\StarGames.BLL.dll
+C:\Users\MAGALU\Desktop\StarGames\StarGames.BLL\bin\Release\StarGames.BLL.pdb
+C:\Users\MAGALU\Desktop\StarGames\StarGames.BLL\bin\Release\StarGames.DAL.dll
+C:\Users\MAGALU\Desktop\StarGames\StarGames.BLL\bin\Release\StarGames.DTO.dll
+C:\Users\MAGALU\Desktop\StarGames\StarGames.BLL\bin\Release\StarGames.DAL.pdb
+C:\Users\MAGALU\Desktop\StarGames\StarGames.BLL\bin\Release\StarGames.DTO.pdb
+C:\Users\MAGALU\Desktop\StarGames\StarGames.BLL\obj\Release\StarGames.BLL.csproj.AssemblyReference.cache
+C:\Users\MAGALU\Desktop\StarGames\StarGames.BLL\obj\Release\StarGames.BLL.csproj.CoreCompileInputs.cache
+C:\Users\MAGALU\Desktop\StarGames\StarGames.BLL\obj\Release\StarGames.BLL.csproj.CopyComplete
+C:\Users\MAGALU\Desktop\StarGames\StarGames.BLL\obj\Release\StarGames.BLL.dll
+C:\Users\MAGALU\Desktop\StarGames\StarGames.BLL\obj\Release\StarGames.BLL.pdb

@@ -1,0 +1,6 @@
+C:\Users\MAGALU\Desktop\StarGames\StarGames.DTO\bin\Release\StarGames.DTO.dll
+C:\Users\MAGALU\Desktop\StarGames\StarGames.DTO\bin\Release\StarGames.DTO.pdb
+C:\Users\MAGALU\Desktop\StarGames\StarGames.DTO\obj\Release\StarGames.DTO.csproj.AssemblyReference.cache
+C:\Users\MAGALU\Desktop\StarGames\StarGames.DTO\obj\Release\StarGames.DTO.csproj.CoreCompileInputs.cache
+C:\Users\MAGALU\Desktop\StarGames\StarGames.DTO\obj\Release\StarGames.DTO.dll
+C:\Users\MAGALU\Desktop\StarGames\StarGames.DTO\obj\Release\StarGames.DTO.pdb

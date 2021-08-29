@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarGames.UI", "StarGames\StarGames.UI.csproj", "{63CED749-9187-41C7-8703-D70E534A86C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarGames.BLL", "StarGames.BLL\StarGames.BLL.csproj", "{5A2D3640-A249-47A3-81E2-0C9FD27A58E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarGames.DAL", "StarGames.DAL\StarGames.DAL.csproj", "{69CD938E-209D-4191-A4F5-57C431D538A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarGames.DTO", "StarGames.DTO\StarGames.DTO.csproj", "{9B89DA68-E57C-4A81-A1CA-69764A0144F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarGame.Sitee", "StarGame.Sitee\StarGame.Sitee.csproj", "{974181CD-CF96-488F-887B-93D221DEB97F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarGames.API", "StarGames.API\StarGames.API.csproj", "{8201340F-C835-4804-80CA-F0E0CB46AE04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63CED749-9187-41C7-8703-D70E534A86C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63CED749-9187-41C7-8703-D70E534A86C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63CED749-9187-41C7-8703-D70E534A86C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63CED749-9187-41C7-8703-D70E534A86C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A2D3640-A249-47A3-81E2-0C9FD27A58E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2D3640-A249-47A3-81E2-0C9FD27A58E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2D3640-A249-47A3-81E2-0C9FD27A58E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2D3640-A249-47A3-81E2-0C9FD27A58E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69CD938E-209D-4191-A4F5-57C431D538A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CD938E-209D-4191-A4F5-57C431D538A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CD938E-209D-4191-A4F5-57C431D538A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CD938E-209D-4191-A4F5-57C431D538A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B89DA68-E57C-4A81-A1CA-69764A0144F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B89DA68-E57C-4A81-A1CA-69764A0144F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B89DA68-E57C-4A81-A1CA-69764A0144F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B89DA68-E57C-4A81-A1CA-69764A0144F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{974181CD-CF96-488F-887B-93D221DEB97F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974181CD-CF96-488F-887B-93D221DEB97F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974181CD-CF96-488F-887B-93D221DEB97F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974181CD-CF96-488F-887B-93D221DEB97F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8201340F-C835-4804-80CA-F0E0CB46AE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8201340F-C835-4804-80CA-F0E0CB46AE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8201340F-C835-4804-80CA-F0E0CB46AE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8201340F-C835-4804-80CA-F0E0CB46AE04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73B35C6A-C5AE-442A-ABA0-A1D99F1405AD}
+	EndGlobalSection
+EndGlobal

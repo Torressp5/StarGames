@@ -1,0 +1,125 @@
+﻿
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url('../Fonte/Roboto-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Social-Circles-v1.1';
+    src: url('../Fonte/Social-Circles-v1.1.otf') format('opentype');
+}
+.Colors {
+    background-color: #92bdca;
+}
+.Colors2 {
+    background-color: #a0cad8;
+   
+}
+.Colors3 {
+    background-color: #384448;
+}
+.Border{
+    border-radius:75px;
+   
+}
+
+
+/*#busca{
+    /*margin:1px;
+}*/
+body {
+    background-color: whitesmoke;
+    font-family: 'Roboto-Light';
+}
+
+h3 {
+    text-align: center;
+}
+
+.ladinho {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+/*Textos*/
+.roda {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: #384448;
+}
+.bg-light {
+ 
+    justify-content: center;
+}
+/*Textos*/
+.letraMaior {
+    font-size: 26px;
+}
+.corText {
+    color: #384448;
+}
+
+.small {
+    text-align: center;
+    color: #384448;
+}
+
+.Alinhar {
+    text-align: center;
+}
+
+.list-group {
+    text-align: center;
+}
+
+/*.card-header {
+    text-align: center;
+}*/
+
+ul {
+    text-decoration: none;
+    list-style: none;
+}
+
+    ul li a {
+        text-decoration: none;
+    }
+
+        ul li a:hover {
+            color: orangered;
+        }
+
+.socialMedia {
+    font-family: 'Social-Circles-v1.1';
+}
+
+
+    .socialMedia li {
+        display: inline;
+    }
+
+        .socialMedia li a {
+            font-size: 30pt;
+            color: black;
+            text-decoration: none;
+            margin-left: 10px;
+        }
+
+            .socialMedia li a:hover {
+                color: #0015ff;
+            }
+
+
+.card-star {
+    width: 20rem;
+    margin: 18px 0 0 18px;
+
+}
+
+.card-columns-star {
+    display: flex;
+   
+    flex-flow: row wrap;
+    justify-content: center;
+}

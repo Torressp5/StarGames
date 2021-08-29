@@ -1,0 +1,17 @@
+C:\Users\HomePc\Desktop\StarGames\StarGames.DTO\bin\Debug\StarGames.DTO.dll
+C:\Users\HomePc\Desktop\StarGames\StarGames.DTO\bin\Debug\StarGames.DTO.pdb
+C:\Users\HomePc\Desktop\StarGames\StarGames.DTO\obj\Debug\StarGames.DTO.csprojAssemblyReference.cache
+C:\Users\HomePc\Desktop\StarGames\StarGames.DTO\obj\Debug\StarGames.DTO.csproj.CoreCompileInputs.cache
+C:\Users\HomePc\Desktop\StarGames\StarGames.DTO\obj\Debug\StarGames.DTO.dll
+C:\Users\HomePc\Desktop\StarGames\StarGames.DTO\obj\Debug\StarGames.DTO.pdb
+C:\Users\leonardo.fslima1\StarGames\StarGames.DTO\bin\Debug\StarGames.DTO.dll
+C:\Users\leonardo.fslima1\StarGames\StarGames.DTO\bin\Debug\StarGames.DTO.pdb
+C:\Users\leonardo.fslima1\StarGames\StarGames.DTO\obj\Debug\StarGames.DTO.csprojAssemblyReference.cache
+C:\Users\leonardo.fslima1\StarGames\StarGames.DTO\obj\Debug\StarGames.DTO.dll
+C:\Users\leonardo.fslima1\StarGames\StarGames.DTO\obj\Debug\StarGames.DTO.pdb
+C:\Users\MAGALU\Desktop\StarGames\StarGames.DTO\bin\Debug\StarGames.DTO.dll
+C:\Users\MAGALU\Desktop\StarGames\StarGames.DTO\bin\Debug\StarGames.DTO.pdb
+C:\Users\MAGALU\Desktop\StarGames\StarGames.DTO\obj\Debug\StarGames.DTO.csproj.AssemblyReference.cache
+C:\Users\MAGALU\Desktop\StarGames\StarGames.DTO\obj\Debug\StarGames.DTO.csproj.CoreCompileInputs.cache
+C:\Users\MAGALU\Desktop\StarGames\StarGames.DTO\obj\Debug\StarGames.DTO.dll
+C:\Users\MAGALU\Desktop\StarGames\StarGames.DTO\obj\Debug\StarGames.DTO.pdb

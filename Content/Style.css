@@ -1,0 +1,58 @@
+﻿body {
+}
+
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url('../Fonts/Roboto/Roboto-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'TypeIconsColor';
+    src: url('../Fonts/Type Icons Color.ttf') format('truetype');
+}
+
+.fakeBody {
+    font-family: Roboto-Light;
+    background-color: #fefefe;
+    color: #010101;
+}
+
+.ajuste {
+    width: 100%;
+    height: 75px;
+}
+
+.footerDiv {
+    width: 100%;
+    background-color: #262626;
+    padding: 10px;
+}
+
+.fakeFooter {
+    width: 100%;
+    background-color: #010101;
+    padding: 10px;
+}
+
+.socialMedia {
+    font-family: TypeIconsColor;
+}
+
+    .socialMedia li {
+        display: inline;
+    }
+
+        .socialMedia li a {
+            font-size: 30pt;
+            color: ghostwhite;
+            text-decoration: none;
+            margin-left: 10px;
+        }
+
+            .socialMedia li a:hover {
+                color: #0015ff;
+            }
+
+.formulario {
+    padding: 50px;
+}

@@ -1,0 +1,134 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Defaut.master.cs" Inherits="StarGame.Sitee.Defaut1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+
+    <link href="Content/Style.css" rel="stylesheet" />
+    <link href="Content/Styles2.css" rel="stylesheet" />
+    <link rel="icon" href="Image/1623884434038.png" type="image/png" sizes="16x16" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="Content/bootstrap.css" rel="stylesheet" type="text/css" />
+    <script src="Scripts/jquery-3.5.1.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/jquery.mask.min.js"></script>
+    <script type="text/javascript">
+    
+
+
+
+
+       
+
+        $(document).ready(function () {
+            $(".date").mask("00/00/0000");
+            $(".time").mask("00:00:00");
+            $(".date_time").mask("00/00/0000 00:00:00");
+            $(".cep").mask("00000-000");
+            $(".phone").mask("0000-0000");
+            $(".phone_with_ddd").mask("(00) 00000-0000");
+            $(".phone_us").mask("(000) 000-0000");
+            $(".cpf").mask("000.000.000-00", { reverse: true });
+            $(".cnpj").mask("00.000.000/0000-00", { reverse: true });
+            $(".placeholderDate").mask("00/00/0000", { placeholder: "__/__/____" });
+        });
+
+    </script>
+
+    <title>StarGames</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<<<<<<< HEAD
+<body class="bg-secondary" >
+         <div class="container-fluid bg-dark">
+=======
+<body class="Colors" >
+    <form id="form1" runat="server">
+         <div class="container-fluid Colors">
+>>>>>>> 90193289abe52b928e6a4849bf54c0012a570cd8
+            <!--menu-->
+            <nav class="navbar navbar-expand-lg  Colors2 fixed-top">
+                <a class="navbar-brand" href="Default.aspx">
+                    <asp:Image runat="server" ImageUrl="~/Image/1623884289409.png" Width="50" Height="50" />
+                    StarGames
+                </a>
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item ">
+                        <a class="nav-link" id="dpm" href="Playstation4.aspx">Playstation4</a>
+                    </li>
+                    <li class="nav-item dropdown ">
+                        <a class="nav-link" id="dpm1" href="NintendoSwicth.aspx">Nintendo Switch</a>
+                    </li>
+                    <li class="nav-item dropdown ">
+                        <a class="nav-link" id="dpm2" href="XboxOne.aspx">XboxOne</a>
+                    </li>
+                    <li class="nav-item dropdown ">
+                        <a class="nav-link" id="dpm3" href="Playstation5.aspx">Playstation5</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link" id="dpm4" href="Cadastro.aspx">Cadastre-se</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link" id="dpm5" href="Contato.aspx">Contato</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link" id="dpm6" href="Sobre.aspx">Sobre a Nós</a>
+                    </li>
+                </ul>
+            </nav>
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+
+
+            <%--nav--%>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+
+            <%--rodape--%>
+            <!--Footer-->
+            <footer>
+                <!--siga nos-->
+                 <h3 class="roda">Siga-nos</h3>
+                <div class="ladinho" >
+                    <ul class="socialMedia">
+                        <li><a href="#">F</a></li>
+                        <li><a href="#">I</a></li>
+                        <li><a href="#">G</a></li>
+                        <li><a href="#">Y</a></li>
+                    </ul>
+                </div>
+<<<<<<< HEAD
+
+                <hr />
+                <!--Fake Footer-->
+                <div class="fakeFooter text-light">
+=======
+                <hr />
+                <!--Fake Footer-->
+                <div class="fakeFooter Colors">
+>>>>>>> 90193289abe52b928e6a4849bf54c0012a570cd8
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12 col-sm-12">
+                                <h6 class="small">Star Games Copy rigth 2022 &copy; todos os direitos reservados.
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+<<<<<<< HEAD
+  
+=======
+  </form>
+>>>>>>> 90193289abe52b928e6a4849bf54c0012a570cd8
+</body>
+</html>
+
